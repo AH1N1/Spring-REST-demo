@@ -1,0 +1,4 @@
+Zbudować w Maven aplikację, która zawiera encję JPA Loan (z atrybutami id, loanAmount, loanTermMonths)
+done
+i udostępnia przez REST usługi CRUD (dodania/usunięcia/modyfikacji/odczytu) encji Loan przez json i xml.
+ Aplikacja powinna dać się uruchomić na Apache Tomcat lub Spring Boot. Przysłać kod źródłowy i instrukcję uruchomienia.
